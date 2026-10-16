@@ -8,7 +8,7 @@ Available in **English and Portuguese**: switch with the **PT | EN** buttons at 
 <img width="1919" height="1044" alt="image" src="https://github.com/user-attachments/assets/22510196-bb0e-4125-9199-d2855ecbabaf" />
 
 ## Download and install
-
+<a href="https://sourceforge.net/projects/atelier-croqui/files/latest/download"><img alt="Download Atelier Croqui" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
 To Download: https://sourceforge.net/projects/atelier-croqui/
 
 1. Download **`Atelier Croqui Setup.exe`** from the **Releases** page.
