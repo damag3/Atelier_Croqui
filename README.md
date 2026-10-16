@@ -9,7 +9,6 @@ Available in **English and Portuguese**: switch with the **PT | EN** buttons at 
 
 ## Download and install
 <a href="https://sourceforge.net/projects/atelier-croqui/files/latest/download"><img alt="Download Atelier Croqui" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
-To Download: https://sourceforge.net/projects/atelier-croqui/
 
 1. Download **`Atelier Croqui Setup.exe`** from the **Releases** page.
 2. Double-click it and follow the steps (Next → Next → Finish).
@@ -112,4 +111,4 @@ The mouse wheel zooms. Hold **Shift** to scroll sideways.
 - Pantone colours are not included; use the built-in palettes and your own colour collections
 
 
-DOWNLOAD: https://sourceforge.net/projects/atelier-croqui/
+<a href="https://sourceforge.net/projects/atelier-croqui/files/latest/download"><img alt="Download Atelier Croqui" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
