@@ -4,7 +4,6 @@
 
 Available in **English and Portuguese**: switch with the **PT | EN** buttons at the top of the window.
 
----
 <img width="1919" height="1044" alt="image" src="https://github.com/user-attachments/assets/22510196-bb0e-4125-9199-d2855ecbabaf" />
 
 ## Download and install
@@ -29,8 +28,9 @@ To uninstall, use *Settings → Apps* in Windows, like any other program.
 2. **Colour it:** click a garment, then pick a colour in the *Colours* tab.
 3. **Add a fabric:** with a garment selected, open *Fabrics* and click a fabric or print.
 4. **Bring in your own design:** press **U**, or drag an image into the window. PNG with a transparent background works best.
-5. **Fit it to the body:** select your image, open *Settings → Warp (wrap)*. The croquis appears underneath. Click **Fit to body (automatic)**, drag the points to fine-tune, then **Apply warp**.
-6. **Export** with **Ctrl+E**, or create a **Tech sheet**.
+5. **Colour it or add a print:** with your image selected, click a colour in *Colours* or a fabric in *Fabrics* (or use *Garment colour and print* in *Settings*).
+6. **Fit it to the body:** select your image, open *Settings → Warp (wrap)*. The croquis appears underneath. Click **Fit to body (automatic)**, drag the points to fine-tune, then **Apply warp**.
+7. **Export** with **Ctrl+E**, or create a **Tech sheet**.
 
 ---
 
@@ -46,6 +46,7 @@ To uninstall, use *Settings → Apps* in Windows, like any other program.
 **Your designs and the wrap tool**
 - Import PNG, JPG, WebP and SVG (menu, drag-and-drop or paste)
 - Clip your design inside a garment, then move, rotate, resize and flip it
+- **Colour or pattern your own garment drawings:** click a colour or a fabric and the garment is painted, with its outline detected automatically and the lines and shading of your drawing kept
 - **Mesh wrap** to fit your clothes to the croquis, with automatic body fit and presets (arch, wave, bulge, cylinder, perspective, skew, twist)
 - Remove a white background, adjust brightness, contrast, saturation and hue, or tint the image
 
@@ -109,6 +110,10 @@ The mouse wheel zooms. Hold **Shift** to scroll sideways.
 - Poses are front-facing (no three-quarter views), and the back view is simplified
 - The wrap tool does not follow garment folds automatically
 - Pantone colours are not included; use the built-in palettes and your own colour collections
+
+<a href="https://sourceforge.net/projects/atelier-croqui/files/latest/download"><img alt="Download Atelier Croqui" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
+
+
 
 
 <a href="https://sourceforge.net/projects/atelier-croqui/files/latest/download"><img alt="Download Atelier Croqui" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
